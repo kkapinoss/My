@@ -219,7 +219,7 @@ html, body {
 	text-align: center;
 
 	background-color: var(--black-backgr);
-	background-image: url('/pictures/bg_illustr/Binary_003.png');
+	background-image: url('./../pictures/bg_illustr/Binary_003.png');
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: center center;
